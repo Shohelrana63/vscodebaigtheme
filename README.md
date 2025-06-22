@@ -18,7 +18,7 @@ Designed to boost focus, reduce eye strain, and enhance readability, Baig provid
 
 ## 📸 Preview
 
-(./images/baig.jpeg)
+![Baig Theme Screenshot](./images/baig.jpeg)
 
 ---
 
