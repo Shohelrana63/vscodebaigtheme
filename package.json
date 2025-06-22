@@ -2,7 +2,7 @@
   "name": "Baig",
   "displayName": "Baig",
   "description": "Baig is a sleek, developer-friendly midnight dark theme for Visual Studio Code, crafted by srbaig. Designed for focus, readability, and clean syntax highlighting.",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "publisher": "shohelranabaig",
   "engines": {
     "vscode": "^1.101.0"
@@ -21,6 +21,14 @@
     "srbaig",
     "codewithbaig"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/srbaig/baig-theme"
+  },
+  "bugs": {
+    "url": "https://github.com/srbaig/baig-theme/issues"
+  },
+  "homepage": "https://github.com/srbaig/baig-theme",
   "contributes": {
     "themes": [
       {
